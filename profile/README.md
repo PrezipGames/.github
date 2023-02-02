@@ -13,6 +13,6 @@ Wir veröffentlichen wöchentlich neue Videos um euch das Spiele Entwickeln beiz
 
 Auf unserem Discord Server kannst du dich mit anderen Spieleentwicklern austauschen um mehr über die Entwicklung von Spielen zu lernen. Außerdem erhälst du hier Unterstützung, falls du Probleme hast den Videos zu folgen oder generelle Fragen zu deinen eigenen Projekten hast.
 
-- [Join unserem Discord Server](https://discord.gg/kTmBPKbH)
+- [Join unserem Discord Server](https://discord.gg/cY5RW7D95u)
 
 ### Viel Spaß beim Entwickeln! ⌨
